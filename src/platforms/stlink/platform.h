@@ -61,7 +61,7 @@
 
 #define SRST_PORT	GPIOB
 #define SRST_PIN_V1	GPIO1
-#define SRST_PIN_V2	GPIO0
+#define SRST_PIN_V2	GPIO6
 
 #define LED_PORT	GPIOA
 /* Use PC14 for a "dummy" uart led. So we can observere at least with scope*/
